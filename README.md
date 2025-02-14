@@ -1,4 +1,4 @@
-This project uses the Sentence Transformers library to process text documents, generate embeddings, and perform similarity-based queries. Below is an overview of the key files and what they do:
+###This project uses the Sentence Transformers library to process text documents, generate embeddings, and perform similarity-based queries. Below is an overview of the key files and what they do:
 
 Files and Their Functions
 
