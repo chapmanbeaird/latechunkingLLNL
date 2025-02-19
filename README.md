@@ -49,7 +49,7 @@ This project uses the Sentence Transformers library to process text documents, g
 
 ## How the Project Works
 
-- **latechunking.py** processes markdown files by splitting them into manageable text chunks and generating embeddings.
+- **normalchunking.py** processes markdown files by splitting them into manageable text chunks and generating embeddings.
 - **These embeddings are stored locally for future queries.**
 - **query_embeddings.py** loads these stored embeddings and allows the user to query the text using cosine similarity.
 - **test.py** is used to quickly verify model functionality and embeddings generation.
