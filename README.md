@@ -26,7 +26,7 @@ This project uses the Sentence Transformers library to process text documents, g
 
 ---
 
-### latechunking.py
+### normalchunking.py
 
 **Purpose:** Handles text chunking and embedding generation for markdown files.
 
